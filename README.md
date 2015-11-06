@@ -24,6 +24,7 @@
 
 # selenium_python_named
 > 네임드 웹싸이트(https://named.com)에서 selenium 파이썬을 이용하여 정보 수집
+
 ###사용 방법 ?
 * 다운 후 secure.txt 파일 열고 아이디 비번 입력
 * 필요한 외부 라이브러리를 밑에 명령어 이용하여 다운
