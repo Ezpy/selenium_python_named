@@ -18,6 +18,10 @@
 ###Install these requirements by using this code
 > pip install -r requirements.txt
 
+
+***
+
+
 # selenium_python_named
 > 네임드 웹싸이트(https://named.com)에서 selenium 파이썬을 이용하여 정보 수집
 ###사용 방법 ?
