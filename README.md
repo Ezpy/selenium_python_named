@@ -2,9 +2,9 @@
 collects named website(https://named.com) data by using selenium in python
 
 ###[사용 방법]
-1 다운로드 후 secure.txt 파일을 열고 네임드 아이디, 비밀번호를 적는다. 1
-2 필요 라이브러리를 다운 받는다. 2
-3 실행 ~ 3
+* 다운로드 후 secure.txt 파일을 열고 네임드 아이디, 비밀번호를 적는다.
+* 필요 라이브러리를 다운 받는다.
+* 실행
 
 
 
